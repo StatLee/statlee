@@ -16,7 +16,7 @@ Stat Lee(Stat,花名 木仔)
 - - 2020 ~ 至今 福报厂 IaaS/PaaS/SaaS (技术服务\运营)
 
 - 我的社交博客:
-- - 微博:@StatLee | Blog: https://vmcloud.info | 微信公众号: VMCloud | 视频/抖音号: VMCloud
+- - 微博:@StatLee | [Blog](https://vmcloud.info) | 微信公众号: VMCloud | 视频/抖音号: VMCloud
 
 [前微软MVP/MCT](http://mvp.microsoft.com/zh-cn/mvp/Sida%20Li-5000429) |
 [腾讯云专栏作者(离职后已不更)](https://cloud.tencent.com/developer/user/1209606)
