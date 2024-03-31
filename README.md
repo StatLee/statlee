@@ -3,7 +3,7 @@
 Stat Lee(Stat,花名 木仔)
 
 - 技术履历:
- - 2007 ~ 2009 虚拟化
+- -2007 ~ 2009 虚拟化
 - - 2010 ~ 2013 VDI\私有云
 - - 2013 ~ 2015 IaaS
 - - 2015 ~ 2020 公共云IaaS
@@ -16,10 +16,10 @@ Stat Lee(Stat,花名 木仔)
 - - 2020 ~ 至今 福报厂 IaaS/PaaS/SaaS (技术服务\运营)
 
 - 我的社交博客:
-- 微博:@StatLee
-- Blog: https://vmcloud.info
-- 微信公众号: VMCloud
-- 视频/抖音号: VMCloud
+- - 微博:@StatLee
+- - Blog: https://vmcloud.info
+- - 微信公众号: VMCloud
+- - 视频/抖音号: VMCloud
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
