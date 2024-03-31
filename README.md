@@ -13,8 +13,8 @@ Stat Lee
 - - 2016 ~ 2020 鹅厂IaaS 研发运维(技术运维\运营)
 - - 2020 ~ 至今 福报厂 IaaS/PaaS/SaaS (技术服务\运营)
 
-Blog: https://vmcloud.info
-微信公众号: VMCloud
+- Blog: https://vmcloud.info
+- 微信公众号: VMCloud
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
