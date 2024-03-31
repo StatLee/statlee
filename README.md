@@ -21,6 +21,9 @@ Stat Lee(Stat,花名 木仔)
 - - 微信公众号: VMCloud
 - - 视频/抖音号: VMCloud
 
+[!前微软MVP/MCT](http://mvp.microsoft.com/zh-cn/mvp/Sida%20Li-5000429)
+[!腾讯云专栏作者(离职后已不更)]([https://cloud.tencent.com/developer/user/812371/articles](https://cloud.tencent.com/developer/user/1209606))
+
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
