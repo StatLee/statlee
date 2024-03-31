@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=statlee&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 Stat Lee
-技术履历:
-2007 ~ 2009 虚拟化
+- 技术履历:
+-- 2007 ~ 2009 虚拟化
 2010 ~ 2013 VDI\私有云
 2013 ~ 2015 IaaS
 2015 ~ 2020 公共云IaaS
